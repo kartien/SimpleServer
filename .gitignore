@@ -1,3 +1,4 @@
-i# ignore pycahse 
+# ignore pycahse 
 __pycahe__
-
+# ingore env 
+env
